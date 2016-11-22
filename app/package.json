@@ -1,0 +1,32 @@
+{
+  "name": "TaskManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --hot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-plugin-transform-class-properties": "^6.19.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-preset-stage-1": "^6.16.0",
+    "material-ui": "^0.16.4",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-draggable-list": "^3.1.2",
+    "react-grid-system": "^1.5.2",
+    "react-sortable-hoc": "^0.2.0",
+    "react-sortable-list": "^1.0.3",
+    "react-tap-event-plugin": "^2.0.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
